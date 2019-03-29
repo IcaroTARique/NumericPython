@@ -3,4 +3,4 @@ simpy
 numpy
 matplotlib
 future
-cvs
+python-csv
