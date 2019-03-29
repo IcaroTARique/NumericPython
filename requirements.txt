@@ -1,5 +1,5 @@
 pandas
-simpy
+sympy
 numpy
 matplotlib
 future
